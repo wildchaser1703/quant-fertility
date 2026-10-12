@@ -1,0 +1,9 @@
+[project]
+name = "quant-fertility"
+version = "0.1.0"
+description = "Does quantization hurt low-resource scripts more than English?"
+requires-python = ">=3.12,<3.13"
+dependencies = []
+
+[tool.uv]
+package = false
